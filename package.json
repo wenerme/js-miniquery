@@ -1,0 +1,16 @@
+{
+  "name": "js-miniquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "author": "wener",
+  "license": "MIT",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.3.0",
+    "esbuild": "^0.15.5",
+    "prettier": "^2.7.1"
+  }
+}
