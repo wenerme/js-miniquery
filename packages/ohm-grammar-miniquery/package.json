@@ -1,6 +1,6 @@
 {
   "name": "ohm-grammar-miniquery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MiniQuery grammars for various editions of ORM/SQL.",
   "type": "module",
   "scripts": {
@@ -16,7 +16,12 @@
   },
   "files": [
     "src",
-    "lib"
+    "lib",
+    "index.js",
+    "index.ts",
+    "sequelize.js",
+    "sequelize.ts",
+    "tsconfig.json"
   ],
   "keywords": [
     "ohm",
